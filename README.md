@@ -40,7 +40,6 @@ This script uses browser automation and interacts directly with Instagram's fron
 To run the script, use:
 
 ```python
-python <script_name>.py
+python auto_insta_upload.py
 ```
 
-Please replace \`<script_name>\` with the name of the script file.
